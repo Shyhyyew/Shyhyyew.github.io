@@ -6498,3 +6498,18 @@ button#button-cart {
 .page-numbers > .active {
     border-bottom: 2px solid #e56220;
 }
+
+.news-category {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 21px;
+    cursor: pointer;
+    margin-bottom: .5rem;
+}
+.news-category > img {
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0 0 10px rgb(110 110 110 / 30%);
+}
